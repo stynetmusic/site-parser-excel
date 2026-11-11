@@ -1,0 +1,8 @@
+# Прямые зависимости учебного проекта.
+# Версии проверены вместе с тестами на Python 3.14.
+# Установка: python3 -m pip install -r requirements.txt
+
+requests==2.34.2
+beautifulsoup4==4.15.0
+openpyxl==3.1.5
+pytest==9.2.0

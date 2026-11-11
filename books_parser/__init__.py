@@ -1,0 +1,3 @@
+"""Учебный сбор каталога Books to Scrape в Excel."""
+
+__version__ = "1.0.0"

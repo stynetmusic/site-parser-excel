@@ -1,0 +1,42 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Логи и временные файлы
+logs/
+*.log
+*.tmp
+.DS_Store
+
+# Сгенерированные Excel-отчёты
+output/
+*.xlsx
+*.xls
+
+# Секреты и локальные настройки
+.env
+.env.*
+*.pem
+*.key
+
+# Редакторы и IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Служебные файлы macOS и Windows
+._*
+Thumbs.db
